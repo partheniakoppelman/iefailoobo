@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ingiocheig.nikjoyce.com/sitemap.xml
